@@ -1,0 +1,9 @@
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.csprojAssemblyReference.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.data.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.fmConnection.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.fmMain.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.PIDform.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.Properties.Resources.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.SystemFrom.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.csproj.GenerateResource.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\x64\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache

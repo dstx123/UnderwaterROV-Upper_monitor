@@ -1,0 +1,127 @@
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\AttitudeInstrument.dll
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.dll
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\SeeSharpTools.JY.GUI.dll
+E:\研究生资料\奥西ROV\UnderwaterROV\bin\Debug\SeeSharpTools.JY.GUI.xml
+E:\研究生资料\奥西ROV\UnderwaterROV\obj\Debug\UnderwaterROV.Connection.resources
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.Connection.resources
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\bin\Debug\SeeSharpTools.JY.GUI.xml
+C:\Users\Dell\Desktop\奥西ROV上位机\UnderwaterROV\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\SeeSharpTools.JY.GUI.xml
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.dll
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\log4net.dll
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\log4net.xml
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.data.resources
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.PIDform.resources
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\obj\Debug\UnderwaterROV.fmConnection.resources
+E:\研究生资料\奥西ROV\UnderwaterROV3.26\UnderwaterROV\bin\Debug\CrystalButton.dll
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.data.resources
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.fmConnection.resources
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.PIDform.resources
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\CrystalButton.dll
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.dll
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\log4net.dll
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.pdb
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\log4net.xml
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\SeeSharpTools.JY.GUI.xml
+E:\研究生资料\奥西ROV\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.dll
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\log4net.dll
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.pdb
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\log4net.xml
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\bin\Debug\SeeSharpTools.JY.GUI.xml
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.data.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.fmConnection.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.PIDform.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头\UnderwaterROV\obj\Debug\UnderwaterROV.SystemFrom.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.data.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.fmConnection.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.PIDform.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.SystemFrom.resources
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.dll
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\log4net.dll
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\FlyMeterControlLibrary.pdb
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\bin\Debug\log4net.xml
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
+E:\研究生资料\单摄像头\UnderwaterROV单摄像头 6.8\UnderwaterROV\obj\Debug\UnderwaterROV.LanuchPage.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.data.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.fmConnection.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.fmMain.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.PIDform.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.Properties.Resources.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.SystemFrom.resources
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.exe
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.pdb
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\bin\Debug\UnderwaterROV.exe.config
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\bin\Debug\UnderwaterROV.exe
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\bin\Debug\UnderwaterROV.pdb
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\bin\Debug\log4net.dll
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\bin\Debug\log4net.xml
+C:\Users\user\Desktop\UnderwaterROV10.22\UnderwaterROV\obj\Debug\UnderwaterROV.csproj.CopyComplete
